@@ -1,0 +1,15 @@
+
+.icon-block {
+    padding: 0 15px;
+  }
+  
+  .icon-block .material-icons {
+    font-size: inherit;
+  }
+  
+  .bg-logo {
+    background: url('{%url_for('static', filename='./img.png') %}}');
+    background-size: cover;
+    height: 300px;
+  }
+  
